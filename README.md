@@ -7,3 +7,5 @@ F1-ATPase itself is a delicate rotary molecular motor, whose mechanism is known 
 
 With this package, all kinds of behaviors (e.g. steady state populations, enzyme kinetics, occupancies) can be predicted and compared with experimental data.
 Data visualization codes also included.
+
+As a demo: use the jupyter notebook RUNME.ipynb; demo.init.csv is the input file specifying parameters.
